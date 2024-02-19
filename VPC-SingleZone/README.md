@@ -58,4 +58,4 @@ $ terraform apply default.tfplan
 ## Example deployment diagram
 The default deployment will look something like this:
 
-![Diagram of deployment](vpc-gen2-example.png)
+![Diagram of deployment](terraform-doy.png)
